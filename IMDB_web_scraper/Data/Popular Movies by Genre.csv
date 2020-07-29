@@ -1,0 +1,24 @@
+Action|https://www.imdb.com/search/title?genres=action&title_type=feature&explore=genres&sort=year,asc
+Adventure|https://www.imdb.com/search/title?genres=adventure&title_type=feature&explore=genres&sort=year,asc
+Animation|https://www.imdb.com/search/title?genres=animation&title_type=feature&explore=genres&sort=year,asc
+Biography|https://www.imdb.com/search/title?genres=biography&title_type=feature&explore=genres&sort=year,asc
+Comedy|https://www.imdb.com/search/title?genres=comedy&title_type=feature&explore=genres&sort=year,asc
+Crime|https://www.imdb.com/search/title?genres=crime&title_type=feature&explore=genres&sort=year,asc
+Documentary|https://www.imdb.com/search/title?genres=documentary&explore=genres&sort=year,asc
+Drama|https://www.imdb.com/search/title?genres=drama&title_type=feature&explore=genres&sort=year,asc
+Family|https://www.imdb.com/search/title?genres=family&title_type=feature&explore=genres&sort=year,asc
+Fantasy|https://www.imdb.com/search/title?genres=fantasy&title_type=feature&explore=genres&sort=year,asc
+Film Noir|https://www.imdb.com/search/title?genres=film-noir&title_type=feature&explore=genres&sort=year,asc
+History|https://www.imdb.com/search/title?genres=history&title_type=feature&explore=genres&sort=year,asc
+Horror|https://www.imdb.com/search/title?genres=horror&title_type=feature&explore=genres&sort=year,asc
+Music|https://www.imdb.com/search/title?genres=music&title_type=feature&explore=genres&sort=year,asc
+Musical|https://www.imdb.com/search/title?genres=musical&title_type=feature&explore=genres&sort=year,asc
+Mystery|https://www.imdb.com/search/title?genres=mystery&title_type=feature&explore=genres&sort=year,asc
+Romance|https://www.imdb.com/search/title?genres=romance&title_type=feature&explore=genres&sort=year,asc
+Sci-Fi|https://www.imdb.com/search/title?genres=sci-fi&title_type=feature&explore=genres&sort=year,asc
+Short Film|https://www.imdb.com/search/title?genres=short&explore=genres&sort=year,asc
+Sport|https://www.imdb.com/search/title?genres=sport&title_type=feature&explore=genres&sort=year,asc
+Superhero|https://www.imdb.com/search/keyword?keywords=superhero&title_type=movie&sort=year,asc
+Thriller|https://www.imdb.com/search/title?genres=thriller&title_type=feature&explore=genres&sort=year,asc
+War|https://www.imdb.com/search/title?genres=war&title_type=feature&explore=genres&sort=year,asc
+Western|https://www.imdb.com/search/title?genres=western&title_type=feature&explore=genres&sort=year,asc
