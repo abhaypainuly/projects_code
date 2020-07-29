@@ -26,7 +26,7 @@ Modules Used:
   Project is divided in to two phases.
   
   PHASE1
-  Collecting the list of different movie genres and storing the Name and URLs of web page which provide the data about the movies belonding to those genre.
+  Collecting the list of different movie genres and storing the Name and URLs of web page leading to the data about the movies belonding to those genre.
   
   PHASE2
   Taking the URL's of each genre's from the csv file generated in PHASE1
